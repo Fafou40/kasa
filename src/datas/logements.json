@@ -15,7 +15,7 @@
 			"name": "Nathalie Jean",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-12.jpg"
 		},
-		"rating": "5",
+		"rating": "4",
 		"location": "Ile de France - Paris 17e",
 		"equipments": [
 			"Équipements de base",
@@ -31,7 +31,7 @@
 	},
 	{
 		"id": "b9123946",
-		"title": "Magnifique appartement proche Canal Saint Martin",
+		"title": "Appartement proche Canal Saint Martin",
 		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
