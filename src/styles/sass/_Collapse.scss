@@ -22,7 +22,7 @@
 
 @media(max-width: 768px) {
     .collapse_content {
-        animation: slide 2s ease-in-out;
+        animation: slide 3s ease-in-out;
     }
 }
 
@@ -61,6 +61,15 @@
         border-radius: 0 0 0.3rem 0.3rem;
         font-size: 16px;
         line-height: 23px;
-        animation: slide 1s ease-in;
+        animation: slide 3s ease-in-out;
     }
 }
+
+
+.icon-rotate {
+    transition: transform 0.2s ease-in-out; // Ajustez la durée selon vos préférences
+  }
+  
+
+  
+  
